@@ -1,2 +1,2 @@
 "# bigquery" 
-look for word doecument for screenshot
+download word document bigquery from same md folder for screenshot
