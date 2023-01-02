@@ -1,2 +1,2 @@
 "# bigquery" 
-download word document bigquery from same md folder for screenshot
+download word document ask for Python Django - Backend Developer.docx  for screenshot
